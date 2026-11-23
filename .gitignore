@@ -1,0 +1,44 @@
+# Local builds and dependencies
+bin/
+obj/
+build/
+toolchain/
+vendor/
+.vs/
+.cli/
+.packages/
+__pycache__/
+*.pyc
+
+# Local inputs, reports and credentials
+_pc_compat/
+_local_security_audit/
+reports/
+*.local.*
+*.log
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+
+# Binary inputs and generated assets
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.exp
+*.rpf
+*.ttpf
+*.xvd
+*.bin
+*.pri
+*.dxbc
+*.dxil
+*.spv
+*.dds
+*.wav
+*.zip
+*.7z
+*.dmp

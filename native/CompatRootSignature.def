@@ -1,0 +1,4 @@
+LIBRARY CompatRootSignature
+EXPORTS
+    D3D12CreateRootSignatureDeserializer=d3d12.D3D12CreateRootSignatureDeserializer
+    D3D12SerializeVersionedRootSignature=d3d12.D3D12SerializeVersionedRootSignature
